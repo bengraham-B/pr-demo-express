@@ -12,12 +12,12 @@ const logger = createLogger({
     transports: [
         new transports.Console({level: 'silly'}),
         new transports.File({filename: 'server.log', level: 'silly'}),
-        new transports.DailyRotateFile({
-            filename: 'server-%Date%/log',
-            datePattern: "DD-MM-YY",
-            zippedArchieved: false,
-            maxFiles: '7d'
-        })
+        // new transports.DailyRotateFile({
+        //     filename: 'server-%Date%/log',
+        //     datePattern: "DD-MM-YY",
+        //     zippedArchieved: false,
+        //     maxFiles: '7d'
+        // })
 
     ]
 })
