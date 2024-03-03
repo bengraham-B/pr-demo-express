@@ -1,0 +1,62 @@
+ 2024-03-02T11:50:33.412Z - [info   ] - Dev Server Running on PORT: undefined
+ 2024-03-02T11:50:50.736Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T12:12:49.034Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T12:23:43.016Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T20:04:54.535Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T20:10:47.760Z - [info   ] - Tested API
+ 2024-03-02T20:10:53.859Z - [info   ] - Tested API
+ 2024-03-02T20:11:02.345Z - [info   ] - Tested API
+ 2024-03-02T20:11:09.810Z - [info   ] - Tested API
+ 2024-03-02T20:11:35.045Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T20:11:36.728Z - [info   ] - Tested API
+ 2024-03-02T20:11:49.077Z - [info   ] - Tested API
+ 2024-03-02T20:11:58.094Z - [info   ] - Tested API
+ 2024-03-02T20:13:44.695Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T20:14:04.391Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T20:14:21.675Z - [info   ] - Tested API
+ 2024-03-02T20:18:06.200Z - [info   ] - Tested API
+ 2024-03-02T20:23:05.230Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T20:23:23.263Z - [info   ] - Tested API
+ 2024-03-02T20:23:34.060Z - [info   ] - Tested API
+ 2024-03-02T20:24:43.055Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T20:25:01.301Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T20:25:06.523Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T20:26:23.681Z - [info   ] - Test Auth Controller
+ 2024-03-02T20:26:23.684Z - [info   ] - DDD
+ 2024-03-02T20:27:19.604Z - [info   ] - Dev Server Running on PORT: 8001
+ 2024-03-02T20:27:27.095Z - [info   ] - Tested API
+ 2024-03-02T20:27:33.102Z - [info   ] - Test Auth Controller
+ 2024-03-02T20:27:35.025Z - [error  ] - relation "admin_user" does not exist
+ 2024-03-02T20:27:35.027Z - [info   ] - DDD
+ 2024-03-02T20:27:38.931Z - [info   ] - Test Auth Controller
+ 2024-03-02T20:27:40.546Z - [error  ] - relation "admin_user" does not exist
+ 2024-03-02T20:27:40.547Z - [info   ] - DDD
+ 2024-03-02T20:27:44.131Z - [info   ] - Test Auth Controller
+ 2024-03-02T20:27:45.477Z - [error  ] - relation "admin_user" does not exist
+ 2024-03-02T20:27:45.478Z - [info   ] - DDD
+ 2024-03-02T20:27:48.445Z - [info   ] - Test Auth Controller
+ 2024-03-02T20:27:49.963Z - [error  ] - relation "admin_user" does not exist
+ 2024-03-02T20:27:49.964Z - [info   ] - DDD
+ 2024-03-02T20:28:15.040Z - [info   ] - Test Auth Controller
+ 2024-03-02T20:28:16.382Z - [error  ] - relation "admin_user" does not exist
+ 2024-03-02T20:28:16.383Z - [info   ] - DDD
+ 2024-03-03T09:23:01.992Z - [info   ] - Test Auth Controller
+ 2024-03-03T09:23:04.239Z - [error  ] - relation "admin_user" does not exist
+ 2024-03-03T09:23:04.240Z - [info   ] - DDD
+ 2024-03-03T09:28:23.423Z - [info   ] - Test Auth Controller
+ 2024-03-03T09:28:24.797Z - [info   ] - Admin JWT token made
+ 2024-03-03T09:28:24.812Z - [info   ] - Test Auth Login: samt
+ 2024-03-03T09:28:39.250Z - [info   ] - Test Auth Controller
+ 2024-03-03T09:28:40.313Z - [info   ] - Test Auth Controller
+ 2024-03-03T09:28:40.656Z - [info   ] - Admin JWT token made
+ 2024-03-03T09:28:40.658Z - [info   ] - Test Auth Login: samt
+ 2024-03-03T09:28:41.632Z - [info   ] - Admin JWT token made
+ 2024-03-03T09:28:41.634Z - [info   ] - Test Auth Login: samt
+ 2024-03-03T09:33:58.029Z - [info   ] - Verified JWT token JWT
+ 2024-03-03T09:36:23.481Z - [info   ] - Response: all user PR sent to frontend
+ 2024-03-03T09:36:24.375Z - [info   ] - Response: all user PR sent to frontend
+ 2024-03-03T09:36:24.408Z - [info   ] - Response: all user PR sent to frontend
+ 2024-03-03T09:39:41.199Z - [info   ] - Retrived latest PR number: 81000
+ 2024-03-03T09:39:41.365Z - [info   ] - PR was created: 81001
+ 2024-03-03T09:39:41.366Z - [info   ] - Retrived All user PRs after PR was created
+ 2024-03-03T09:39:42.604Z - [info   ] - Response: all user PR sent to frontend

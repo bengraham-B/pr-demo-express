@@ -1,0 +1,1 @@
+docker build -t epr_express_test:v1 .
