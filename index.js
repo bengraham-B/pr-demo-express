@@ -31,6 +31,10 @@ app.use('/api/test-auth/', testAuthRoutes)
 
 const PORT_NUMBER = process.env.PORT
 
+app.get("/", (req, res) => {
+    res.status(200).json("Server is working")
+})
+
 app.get("/test", (req, res) => {
     try {
         logger.info("Tested API")
