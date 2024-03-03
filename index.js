@@ -46,18 +46,6 @@ app.get("/test", (req, res) => {
     }
 })
 
-// //& Creating the HTTPS server
-// const privateKey = fs.readFileSync('SSL/Wildcard2024-pem.key', 'utf8');
-// const certificate = fs.readFileSync('SSL/certificate.crt', 'utf8');
-// const credentials = { key: privateKey, cert: certificate };
-
-// const httpsServer = https.createServer(credentials, app)
-
-// httpsServer.listen(PORT_NUMBER, () => {
-//     logger.info(`HTTPS: Server Running on PORT: ${PORT_NUMBER}`)
-
-// })
-
 app.listen(PORT_NUMBER, () => {
     logger.info(`Dev Server Running on PORT: ${PORT_NUMBER}`)
 })
